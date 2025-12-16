@@ -96,3 +96,28 @@ To compile the program:
 
 ```bash
 g++ "C++ Program.cpp" -o physics_simulation
+
+---
+
+## References and Resources
+
+The theoretical background and formulas used in this project are based on standard undergraduate-level physics and mechanics resources, including:
+
+1. Halliday, D., Resnick, R., & Walker, J.  
+   *Fundamentals of Physics*, Wiley.
+
+2. Serway, R. A., & Jewett, J. W.  
+   *Physics for Scientists and Engineers*, Cengage Learning.
+
+3. Taylor, J. R.  
+   *Classical Mechanics*, University Science Books.
+
+4. NASA Glenn Research Center  
+   Drag Force and Air Resistance Models  
+   https://www.grc.nasa.gov
+
+5. OpenStax  
+   *College Physics*  
+   https://openstax.org
+
+These resources were used as references for classical mechanics principles, projectile motion, collision analysis, pendulum dynamics, and satellite orbital motion.
